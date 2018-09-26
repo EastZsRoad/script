@@ -28,5 +28,3 @@ yum install -y openstack-ceilometer-compute python-ceilometerclient pythonpecan
 yum install -y openstack-trove python-troveclient
 yum install -y openstack-sahara python-saharaclient
 
-
-cupdata icms
